@@ -1,3 +1,4 @@
+# Leetcode 20
 def isValid(s: str) -> bool:
     stack = []
     mapping = {
